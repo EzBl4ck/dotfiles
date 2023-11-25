@@ -158,7 +158,6 @@
 
     "custom/power": {
       "format":" ",
-      "on-click": "exec ~/.config/waybar/scripts/power-menu.sh",
       "tooltip": false
     },
 
@@ -171,6 +170,6 @@
         "default": "󰗃"
       },
       "escape": true,
-      "exec": "/usr/bin/python3 $HOME/.config/waybar/scripts/mediaplayer.py 2> /dev/null"
+      "exec": "/usr/bin/python3 $HOME/dotfiles/waybar/scripts/mediaplayer.py 2> /dev/null"
     }
 }

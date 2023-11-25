@@ -12,6 +12,7 @@ man-db
 
 # Official Repository
 
+arch-install-scripts
 blueman
 bluez-qt5
 bluez-utils
@@ -25,6 +26,7 @@ flatpak
 fontforge
 gamemode
 git
+gparted
 grim
 gtk3
 gtk4

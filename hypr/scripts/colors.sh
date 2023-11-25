@@ -1,8 +1,8 @@
 #!/bin/bash
 
 wal_cache="$HOME/.cache/wal"
-wal_colors="$HOME/.config/wal/colors.d/"
-wal_image_path="$HOME/.config/wal/colors.d/wal"
+wal_colors="$HOME/dotfiles/wal/colors.d/"
+wal_image_path="$HOME/dotfiles/wal/colors.d/wal"
 
 if [ ! -e "$wal_image_path" ]; then
   echo "Wal not found in configs"
