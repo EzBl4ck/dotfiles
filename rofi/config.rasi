@@ -13,7 +13,7 @@ configuration {
     disable-history:            true;
     terminal: "kitty";
     opacity: 0.5;
-    cycle: false;
+    cycle: true;
 }
 
 entry {

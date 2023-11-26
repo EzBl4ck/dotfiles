@@ -43,6 +43,7 @@ networkmanager
 noto-fonts-emoji
 npm
 ntfs-3g
+obs-studio
 pamixer
 papirus-icon-theme
 pavucontrol
@@ -66,6 +67,7 @@ tldr
 tree-sitter-cli
 tree-sitter
 unzip
+v4l2loopback-utils
 vim
 wget
 wine
@@ -98,6 +100,7 @@ toolbox
 waybar-git
 winetricks-git
 wlroots-git
+xwaylandvideobridge-bin
 yay
 zsh-theme-powerlevel10k-git
 
