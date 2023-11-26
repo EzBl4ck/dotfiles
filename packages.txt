@@ -21,6 +21,7 @@ cliphist
 corectrl
 discord
 dunst
+fastfetch
 figlet
 flatpak
 fontforge
@@ -37,7 +38,6 @@ kitty
 lib32-gamemode
 lib32-mangohud
 mangohud
-neofetch
 neovim
 networkmanager
 noto-fonts-emoji
