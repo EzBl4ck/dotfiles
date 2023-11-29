@@ -13,6 +13,7 @@ man-db
 # Official Repository
 
 arch-install-scripts
+bat
 blueman
 bluez-qt5
 bluez-utils
@@ -92,6 +93,7 @@ nerd-fonts-git #opzionale pesa molto
 nwg-look
 oh-my-zsh-git
 orchis-theme-git
+paru
 proton-ge-custom-bin
 rofi-lbonn-wayland-git
 spotify
@@ -101,7 +103,6 @@ waybar-git
 winetricks-git
 wlroots-git
 xwaylandvideobridge-bin
-yay
 zsh-theme-powerlevel10k-git
 
 # Flatpak
