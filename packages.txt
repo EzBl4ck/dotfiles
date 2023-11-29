@@ -23,6 +23,7 @@ corectrl
 discord
 dunst
 fastfetch
+fd
 figlet
 flatpak
 fontforge
@@ -58,6 +59,7 @@ python-pywal
 qt5-wayland
 qt6-wayland
 reflector
+ripgrep
 rustup
 slurp
 sof-firmware
