@@ -109,6 +109,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias c='clear && fastfetch'
+alias ip='ip -color=auto'
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f $ZSH/custom/.p10k.zsh ]] || source $ZSH/custom/.p10k.zsh
 
