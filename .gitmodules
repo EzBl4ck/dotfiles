@@ -1,6 +1,6 @@
 [submodule "nvim"]
 	path = nvim
-	url = git@github.com:EzBl4ck/nvim.git
+	url = https://github.com/EzBl4ck/nvim.git
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
 	url = https://github.com/ohmyzsh/ohmyzsh.git
