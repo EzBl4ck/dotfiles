@@ -12,6 +12,7 @@ man-db
 
 # Official Repository
 
+alsa-firmware
 arch-install-scripts
 bat
 blueman
@@ -72,6 +73,7 @@ tree-sitter
 unzip
 v4l2loopback-utils
 vim
+wev
 wget
 wine
 wireplumber
