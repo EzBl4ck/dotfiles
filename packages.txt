@@ -54,6 +54,7 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+pkgfile
 polkit-kde-agent
 polkit-qt6
 python-pywal
