@@ -4,6 +4,7 @@ base
 base-devel
 efibootmgr
 grub
+inetutils
 linux
 linux-firmware
 linux-headers
@@ -62,6 +63,7 @@ qt5-wayland
 qt6-wayland
 reflector
 ripgrep
+rustlings
 rustup
 slurp
 sof-firmware
