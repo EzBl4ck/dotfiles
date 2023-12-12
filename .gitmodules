@@ -1,6 +1,6 @@
+[submodule "zsh/plugins/zsh-completions"]
+	path = zsh/plugins/zsh-completions
+	url = https://github.com/zsh-users/zsh-completions
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/EzBl4ck/nvim.git
-[submodule "oh-my-zsh"]
-	path = oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
