@@ -1,4 +1,4 @@
-@import "~/dotfiles/wal/colors.d/colors-rofi-dark.rasi"
+@import "$DOTFILES/wal/colors.d/colors-rofi-dark.rasi"
 
 * {
   font: "FiraCode Nerd Font SemBd 12";

@@ -1,5 +1,5 @@
 " Special
-let wallpaper  = "/home/fede/.config/wallpaper/default.png"
+let wallpaper  = "$DOTFILES/wallpaper/default.png"
 let background = "#000000"
 let foreground = "#f0d0a3"
 let cursor     = "#f0d0a3"

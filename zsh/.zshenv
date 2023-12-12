@@ -1,4 +1,5 @@
-export ZDOTDIR="$HOME/dotfiles/zsh/"
+export DOTFILES="$HOME/dotfiles/"
+export ZDOTDIR="$DOTFILES/zsh/"
 
 export EDITOR="nvim"
 export VISUAL="nvim"
