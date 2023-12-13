@@ -30,6 +30,7 @@ alias ll='ls -lahF'
 alias lls='ls -lahFtr'
 alias la='ls -A'
 alias lc='ls -CF'
+alias gitsub='git submodule update --init --recursive'
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
