@@ -3,4 +3,4 @@
 	url = https://github.com/zsh-users/zsh-completions
 [submodule "nvim"]
 	path = nvim
-	url = https://github.com/EzBl4ck/nvim.git
+	url = git@github.com:EzBl4ck/nvim.git
