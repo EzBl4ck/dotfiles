@@ -11,9 +11,6 @@ fi
 setopt autocd
 setopt HIST_SAVE_NO_DUPS
 
-
-
-#export PATH="$PATH:$HOME/.cargo/bin/"
 autoload -U compinit; compinit
 fpath=($ZDOTDIR/plugins/zsh-completions/src $fpath)
 
@@ -27,7 +24,7 @@ alias lls='ls -lahFtr'
 alias la='ls -A'
 alias lc='ls -CF'
 alias gitsub='git submodule update --init --recursive'
-
+alias gitacp='git add --all && git commit -m '.' && git push'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f $ZSH/custom/.p10k.zsh ]] || source $ZSH/custom/.p10k.zsh
