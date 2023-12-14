@@ -1,3 +1,9 @@
+typeset -U path PATH
+# To add ~/.local/bin to $PATH 
+# path=(~/.local/bin $path)
+path=(~/.cargo/bin $path)
+export PATH
+
 export DOTFILES="$HOME/dotfiles/"
 export ZDOTDIR="$DOTFILES/zsh/"
 
