@@ -35,6 +35,8 @@ hyprpicker 0.2.0-2
 inetutils 2.4-2
 intellij-idea-ultimate-edition 2023.3.1-1
 jdk-openjdk 21.u35-8
+jdk17-openjdk 17.0.9.u8-2
+jdk8-openjdk 8.392.u08-1
 kitty 0.31.0-1
 lib32-gamemode 1.7-1
 lib32-libpipewire 1:1.0.0-1
@@ -69,6 +71,7 @@ pkgfile 21-2
 polkit-kde-agent 5.27.10-1
 polkit-qt5 0.175.0-1
 polkit-qt6 0.175.0-1
+prismlauncher 8.0-1
 progress 0.17-1
 proton-ge-custom-bin 1:GE_Proton8_25-1
 protontricks 1.10.5-1
