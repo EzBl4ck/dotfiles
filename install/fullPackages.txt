@@ -6,6 +6,7 @@ blueman 2.3.5-2
 bluez-utils 5.71-1
 brave-bin 1:1.61.104-1
 btop 1.2.13-1
+btrfs-assistant 1.8-2
 btrfs-progs 6.6.2-1
 cliphist 1:0.4.0-2
 cmake 3.28.1-1
@@ -22,6 +23,8 @@ gamemode 1.7-1
 gamescope 3.13.17-1
 git 2.43.0-1
 github-cli 2.40.1-1
+gnome-disk-utility 45.1-1
+goverlay 1.0-1
 grim 1.4.1-1
 grub 2:2.12rc1-7
 grub-btrfs 4.13-1
@@ -30,6 +33,7 @@ gtkmm-4.0 4.12.0-1
 hyprland 0.33.1-2
 hyprpicker 0.2.0-2
 inetutils 2.4-2
+intellij-idea-ultimate-edition 2023.3.1-1
 jdk-openjdk 21.u35-8
 kitty 0.31.0-1
 lib32-gamemode 1.7-1
@@ -65,6 +69,7 @@ pkgfile 21-2
 polkit-kde-agent 5.27.10-1
 polkit-qt5 0.175.0-1
 polkit-qt6 0.175.0-1
+progress 0.17-1
 proton-ge-custom-bin 1:GE_Proton8_25-1
 protontricks 1.10.5-1
 qt5-wayland 5.15.11+kde+r60-1
@@ -72,6 +77,8 @@ reflector 2023-1
 ripgrep 14.0.3-1
 rofi-lbonn-wayland 1.7.5+wayland2-1
 slurp 1.4.0-1
+snapper 0.10.7-1
+snapper-gui-git 0.1.r8.g1915750-1
 sof-firmware 2023.09.2-1
 spotify 1:1.2.26.1187-1
 steam 1.0.0.78-2
@@ -79,6 +86,7 @@ swayidle 1.8.0-1
 swww 0.8.1-0
 thunar 4.18.8-1
 tldr 3.2.0-1
+ttf-dejavu-nerd 3.1.1-1
 unzip 6.0-20
 waybar 0.9.24-2
 wget 1.21.4-1
