@@ -21,6 +21,7 @@ fontforge 20230101-3
 gamemode 1.7-1
 gamescope 3.13.17-1
 git 2.43.0-1
+github-cli 2.40.1-1
 grim 1.4.1-1
 grub 2:2.12rc1-7
 grub-btrfs 4.13-1
