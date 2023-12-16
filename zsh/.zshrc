@@ -28,6 +28,7 @@ alias gitacp='git add --all && git commit -m '.' && git push'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 alias .....='cd ../../../..'
+alias clang++='clang++ -pedantic -Wall -Wextra -Wdouble-promotion -std=c++17'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f $ZSH/custom/.p10k.zsh ]] || source $ZSH/custom/.p10k.zsh
