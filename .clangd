@@ -1,0 +1,11 @@
+CompileFlags:
+  Add: [
+    -std=c++2b,
+    -pedantic,
+    -Wall,
+    -Weffc++,
+    -Wextra,
+    -Wconversion,
+    -Wsign-conversion,
+    -Wdouble-promotion,
+  ]
