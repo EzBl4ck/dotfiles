@@ -146,7 +146,7 @@
 
     "custom/chatgpt": {
       "format":" ",
-      "on-click": "exec brave --app=https://chat.openai.com",
+      "on-click": "exec firefox --new-window https://chat.openai.com",
       "tooltip": false
     },
 
