@@ -1,3 +1,6 @@
+export CC="clang"
+export CXX="clang++"
+
 typeset -U path PATH
 # To add ~/.local/bin to $PATH 
 # path=(~/.local/bin $path)
