@@ -122,7 +122,7 @@
 
     "custom/brave": {
       "format": " ",
-      "on-click": "exec brave",
+      "on-click": "exec firefox",
       "tooltip": false
     },
 
