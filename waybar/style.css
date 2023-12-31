@@ -30,7 +30,7 @@ window#waybar {
 #workspaces,
 #custom-media {
   padding: 0.25rem 0.75rem;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.7);
   border-radius: 20px;
 }
 
@@ -40,6 +40,10 @@ window#waybar {
   margin: 0 20px;
   color: @foreground;
   font-weight: bold;
+}
+
+window#waybar.empty #window {
+  background: transparent;
 }
 
 /* -----------------------------------------------------------------------------
