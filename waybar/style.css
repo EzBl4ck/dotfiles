@@ -1,21 +1,20 @@
-@import '../wal/colors.d/colors-waybar.css';
+@import "../wal/colors.d/colors-waybar.css";
 
 /* Reset all styles */
 * {
-    border: none;
-    border-radius: 0;
-    min-height: 0;
-    margin: 1px;
-    padding: 0;
-    color: @color6;
+  border: none;
+  border-radius: 0;
+  min-height: 0;
+  margin: 1px;
+  padding: 0;
+  color: @color6;
 }
-
 
 /* The whole bar */
 window#waybar {
-    background-color: @background;
-    font-family: Ubuntu Nerd Font;
-    font-size: 16px;
+  background-color: transparent;
+  font-family: Ubuntu Nerd Font;
+  font-size: 16px;
 }
 
 /* Every modules */
@@ -30,9 +29,9 @@ window#waybar {
 #custom-power,
 #workspaces,
 #custom-media {
-    padding:0.25rem 0.75rem;
-    background-color: rgba(0,0,0,0.8);
-    border-radius: 20px;
+  padding: 0.25rem 0.75rem;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
 }
 
 #clock,
@@ -49,42 +48,42 @@ window#waybar {
 
 #memory.warning,
 #cpu.warning {
-    color: @color3;
+  color: @color3;
 }
 
 #memory {
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
 #temperature.critical,
 #cpu.critical,
 #memory.critical {
-    color: @color2;
-    animation-name: blink-critical;
-    animation-duration: 2s;
+  color: @color2;
+  animation-name: blink-critical;
+  animation-duration: 2s;
 }
 
 #pulseaudio {
-    border-left: 0px;
-    border-right: 0px;
-    margin-right: 0;
-    border-radius: 20px 0 0 20px;
+  border-left: 0px;
+  border-right: 0px;
+  margin-right: 0;
+  border-radius: 20px 0 0 20px;
 }
 
 #pulseaudio.microphone {
-    border-left: 0px;
-    border-right: 0px;
-    margin-left: 0;
-    padding-left: 0;
-    border-radius: 0 20px 20px 0;
+  border-left: 0px;
+  border-right: 0px;
+  margin-left: 0;
+  padding-left: 0;
+  border-radius: 0 20px 20px 0;
 }
 
 #workspaces {
-    font-size:14px;
-    background-color: rgba(0,0,0,0.8);
-    border-radius: 20px;
+  font-size: 14px;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
 }
 
 #workspaces button.active label {
@@ -92,23 +91,20 @@ window#waybar {
 }
 
 #custom-power {
-    font-size:20px;
-    margin-right: 15px;
+  font-size: 20px;
+  margin-right: 15px;
 }
 
-#custom-brave, 
+#custom-brave,
 #custom-terminal,
 #custom-files,
 #custom-chatgpt,
 #custom-discord,
 #custom-launcher {
-    font-size:20px;
-    margin-right:8px;
+  font-size: 20px;
+  margin-right: 8px;
 }
 
 #custom-launcher {
-    margin-left:15px;
+  margin-left: 15px;
 }
-
-
-
