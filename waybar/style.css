@@ -30,7 +30,8 @@ window#waybar {
 #workspaces,
 #custom-media {
   padding: 0.25rem 0.75rem;
-  background-color: rgba(0, 0, 0, 0.7);
+  /*background-color: rgba(0, 0, 0, 0.7);*/
+  background-color: transparent;
   border-radius: 20px;
 }
 
@@ -86,7 +87,6 @@ window#waybar.empty #window {
 
 #workspaces {
   font-size: 14px;
-  background-color: rgba(0, 0, 0, 0.8);
   border-radius: 20px;
 }
 
