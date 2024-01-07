@@ -1,6 +1,8 @@
 [submodule "zsh/plugins/zsh-completions"]
 	path = zsh/plugins/zsh-completions
 	url = https://github.com/zsh-users/zsh-completions
+	branch = master
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:EzBl4ck/nvim.git
+	branch = main
