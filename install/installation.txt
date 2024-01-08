@@ -80,3 +80,4 @@ ExecStart=
 ExecStart=-/sbin/agetty -o '-p -f -- \\u' --noclear --autologin fede %I $TERM
 
 # Edit paru/yay configs
+# Disable CoW for /var/lib/mysql
